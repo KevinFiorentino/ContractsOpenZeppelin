@@ -8,7 +8,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git@github.com-kevin:KevinFiorentino/ContractCollectionKVN.git"
+    "url": "git@github.com-kevin:KevinFiorentino/contracts-openzeppelin.git"
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.7.0"
